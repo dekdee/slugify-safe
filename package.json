@@ -1,0 +1,17 @@
+{
+  "name": "slugify-safe",
+  "version": "1.0.0",
+  "description": "A tiny and safe URL slug generator with emoji & unicode support",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "slug",
+    "slugify",
+    "url",
+    "string",
+    "emoji",
+    "unicode"
+  ],
+  "author": "",
+  "license": "MIT"
+}
